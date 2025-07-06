@@ -1,0 +1,1 @@
+Rand library create random number

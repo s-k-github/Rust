@@ -1,0 +1,5 @@
+D:\Rust\Rust\Program3_guessing_game\target\debug\deps\Program1_guessing_game-a79029f6d0411665.d: src\main.rs
+
+D:\Rust\Rust\Program3_guessing_game\target\debug\deps\libProgram1_guessing_game-a79029f6d0411665.rmeta: src\main.rs
+
+src\main.rs:
