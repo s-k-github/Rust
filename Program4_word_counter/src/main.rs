@@ -5,7 +5,7 @@ use std::io::Read;
 fn main() {
     let args: Vec<String> = env::args().collect();
     if args.len() != 2 {
-        println!("Invalid input. Usage Cargo run <filePath>");
+        println!("Invalid input. Usage Cargo run <fileName>");
         return;
     }
 
