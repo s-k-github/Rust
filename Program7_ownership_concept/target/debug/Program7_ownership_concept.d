@@ -1,0 +1,1 @@
+D:\Rust\Rust\Program7_ownership_concept\target\debug\Program7_ownership_concept.exe: D:\Rust\Rust\Program7_ownership_concept\src\main.rs D:\Rust\Rust\Program7_ownership_concept\src\ownership_in_functions.rs D:\Rust\Rust\Program7_ownership_concept\src\reference_ownership.rs
