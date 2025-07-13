@@ -1,0 +1,5 @@
+D:\Rust\Rust\Program10_restaurant_module_types_binary_library_system\target\debug\deps\Program10_restaurant_module_types_binary_library_system-e8eba0a5dea28eac.d: src\main.rs
+
+D:\Rust\Rust\Program10_restaurant_module_types_binary_library_system\target\debug\deps\libProgram10_restaurant_module_types_binary_library_system-e8eba0a5dea28eac.rmeta: src\main.rs
+
+src\main.rs:
