@@ -1,0 +1,1 @@
+D:\Rust\Rust\Program13_generic_types\target\debug\Program13_generic_types.exe: D:\Rust\Rust\Program13_generic_types\src\enum_generic_type.rs D:\Rust\Rust\Program13_generic_types\src\generic_types.rs D:\Rust\Rust\Program13_generic_types\src\main.rs D:\Rust\Rust\Program13_generic_types\src\struct_generic_type.rs D:\Rust\Rust\Program13_generic_types\src\struct_generic_type_impl.rs
