@@ -1,0 +1,5 @@
+D:\Rust\Rust\Program20_print_macro_types\Program21_print_text_with_special_characters\target\debug\deps\Program21_print_text_with_special_characters-d2f6e0265010f476.d: src\main.rs
+
+D:\Rust\Rust\Program20_print_macro_types\Program21_print_text_with_special_characters\target\debug\deps\libProgram21_print_text_with_special_characters-d2f6e0265010f476.rmeta: src\main.rs
+
+src\main.rs:

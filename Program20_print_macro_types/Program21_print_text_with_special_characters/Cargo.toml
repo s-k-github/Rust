@@ -1,0 +1,6 @@
+[package]
+name = "Program21_print_text_with_special_characters"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
